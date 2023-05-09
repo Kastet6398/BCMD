@@ -62,7 +62,7 @@ Use **`#ram`** to view free RAM.
 ## Other commands
 You can also use another your OS's CMD commands (**`dir`**, **`ls`**, etc.).
 # List of commands
-- ### `[#evalute]([https://www.google.com](https://github.com/Kastet6398/BCMD#evaluted) "#evalute")`
+- ### `[#evalute](https://github.com/Kastet6398/BCMD#evaluted "#evalute")`
 - ### `#exit`
 - ### `#password`
 - ### `#url`
