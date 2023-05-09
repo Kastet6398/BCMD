@@ -62,7 +62,7 @@ Use **`#ram`** to view free RAM.
 ## Other commands
 You can also use another your OS's CMD commands (**`dir`**, **`ls`**, etc.).
 # List of commands
-- ### [`I'm an inline-style link with title`](https://www.google.com "Google's Homepage")
+- ### [`#evalute`](https://www.google.com "`#evalute`")
 - ### `#exit`
 - ### `#password`
 - ### `#url`
