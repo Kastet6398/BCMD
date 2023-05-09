@@ -83,7 +83,4 @@ You can also use another your OS's CMD commands (**`dir`**, **`ls`**, etc.).
 - ### `#mac`
 - ### `#processor`
 - ### `#ram`
-- ### OS's CMD commands
-
-# Todo
-- [ ] Upload the web version to the internet
+- ### Your OS's terminal commands
