@@ -71,7 +71,7 @@ You can also use another your OS's CMD commands (**`dir`**, **`ls`**, etc.).
 - ### [`#createfile`](https://github.com/Kastet6398/BCMD#createfile "#createfile")
 - ### [`#createfolder`](https://github.com/Kastet6398/BCMD#createfolder "#createfolder")
 - ### [`#delete`](https://github.com/Kastet6398/BCMD#delete "#delete")
-- ### [`#clear` (only in desktop version)](https://github.com/Kastet6398/BCMD#clear "#clear")
+- ### [`#clear` (only for desktop version)](https://github.com/Kastet6398/BCMD#clear "#clear")
 - ### [`#help`](https://github.com/Kastet6398/BCMD#help "#help")
 - ### [`#sysinfo`](https://github.com/Kastet6398/BCMD#sysinfo "#sysinfo")
 - ### [`#platform`](https://github.com/Kastet6398/BCMD#platform "#platform")
