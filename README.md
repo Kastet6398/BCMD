@@ -1,0 +1,2 @@
+# BCMD
+A terminal application 
