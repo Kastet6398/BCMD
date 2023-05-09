@@ -1,4 +1,4 @@
-# BCMD
+# DOCUMENTATION
 # All commands
 ## `#evalute`
 Use **`#evalute COMMAND`** to evalute something, 
@@ -84,3 +84,6 @@ You can also use another your OS's CMD commands (**`dir`**, **`ls`**, etc.).
 - ### `#processor`
 - ### `#ram`
 - ### OS's CMD commands
+
+# Todo
+- [ ] Upload the web version to the internet
