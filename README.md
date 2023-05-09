@@ -36,7 +36,7 @@ Use **`#delete PATH`** to delete an object,
 where **`PATH`** is the path of the object which will be deleted. **Example:**
 > #delete my folder
 ## `#clear`
-Use **`#clear`** to clear the console.
+Use **`#clear`** to clear the console. Only in desktop version.
 ## `#help`
 Use #help or ? to view the help.
 ## `#sysinfo`
@@ -63,24 +63,24 @@ Use **`#ram`** to view free RAM.
 You can also use another your OS's CMD commands (**`dir`**, **`ls`**, etc.).
 # List of commands
 - ### [`#evalute`](https://github.com/Kastet6398/BCMD#evalute "#evalute")
-- ### [`#exit`](https://www.google.com "#exit")
-- ### `#password`
-- ### `#url`
-- ### `#source`
-- ### `#write`
-- ### `#createfile`
-- ### `#createfolder`
-- ### `#delete`
-- ### `#clear`
-- ### `#help`
-- ### `#sysinfo`
-- ### `#platform`
-- ### `#release`
-- ### `#version`
-- ### `#architecture`
-- ### `#host`
-- ### `#ip`
-- ### `#mac`
-- ### `#processor`
-- ### `#ram`
+- ### [`#exit`](https://github.com/Kastet6398/BCMD#exit "#exit")
+- ### [`#password`](https://github.com/Kastet6398/BCMD#password "#password")
+- ### [`#url`](https://github.com/Kastet6398/BCMD#url "#url")
+- ### [`#source`](https://github.com/Kastet6398/BCMD#source "#source")
+- ### [`#write`](https://github.com/Kastet6398/BCMD#write "#write")
+- ### [`#createfile`](https://github.com/Kastet6398/BCMD#createfile "#createfile")
+- ### [`#createfolder`](https://github.com/Kastet6398/BCMD#createfolder "#createfolder")
+- ### [`#delete`](https://github.com/Kastet6398/BCMD#delete "#delete")
+- ### [`#clear` (only in desktop version)](https://github.com/Kastet6398/BCMD#clear "#clear")
+- ### [`#help`](https://github.com/Kastet6398/BCMD#help "#help")
+- ### [`#sysinfo`](https://github.com/Kastet6398/BCMD#sysinfo "#sysinfo")
+- ### [`#platform`](https://github.com/Kastet6398/BCMD#platform "#platform")
+- ### [`#release`](https://github.com/Kastet6398/BCMD#release "#release")
+- ### [`#version`](https://github.com/Kastet6398/BCMD#version "#version")
+- ### [`#architecture`](https://github.com/Kastet6398/BCMD#architecture "#architecture")
+- ### [`#host`](https://github.com/Kastet6398/BCMD#host "#host")
+- ### [`#ip`](https://github.com/Kastet6398/BCMD#ip "#ip")
+- ### [`#mac`](https://github.com/Kastet6398/BCMD#mac "#mac")
+- ### [`#processor`](https://github.com/Kastet6398/BCMD#processor "#processor")
+- ### [`#ram`](https://github.com/Kastet6398/BCMD#ram "#ram")
 - ### Your OS's terminal commands
