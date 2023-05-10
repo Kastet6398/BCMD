@@ -87,4 +87,4 @@ You can also use another your OS's CMD commands (**`dir`**, **`ls`**, etc.).
 
 # TODO
 
-- [x] Add command creation command
+- [ ] Add command creation command
