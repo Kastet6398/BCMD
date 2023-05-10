@@ -36,7 +36,7 @@ Use **`#delete PATH`** to delete an object,
 where **`PATH`** is the path of the object which will be deleted. **Example:**
 > #delete my folder
 ## `#clear`
-Use **`#clear`** to clear the console. Only in desktop version.
+Use **`#clear`** to clear the console. Only for desktop version.
 ## `#help`
 Use #help or ? to view the help.
 ## `#sysinfo`
