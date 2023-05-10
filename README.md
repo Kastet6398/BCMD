@@ -84,7 +84,3 @@ You can also use another your OS's CMD commands (**`dir`**, **`ls`**, etc.).
 - ### [`#processor`](https://github.com/Kastet6398/BCMD#processor "#processor")
 - ### [`#ram`](https://github.com/Kastet6398/BCMD#ram "#ram")
 - ### Your OS's terminal commands
-
-# TODO
-
-- [ ] Add command creation command
